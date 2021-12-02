@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+}
+@media (max-width: 450px) {
+  .header1 h1{
+font-size: 18px;
+  
+    }
+    .header1{
+        height: 150px !important;
+    }
+   
+     }
+.header1 {
+    background-color:#1F396B ;
+    height: 200px;
+    color: #fff;
+    width: 98%;
+    /* margin: auto; */
+    /* border-top-right-radius: 20%; */
+    border-radius: 0px  0px  170px 0px ;
+}
+
+.header h1 {
+    margin-top: 30px;
+}
+
+.header h1 span {
+    margin-right: 81px;
+}
+.trial_design {
+    padding: 10px;
+}
+
+.trial_design p {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.trial_design p span {
+    font-size: 30px;
+    font-weight: 700;
+    color: chocolate;
+}
+
+.trial_endp p {
+    font-size: 10px;
+}
+.arrow_right{
+   
+    background-color: #1f396b;
+    border-radius: 45px 0px 0px 0px;
+}
+.arrow_right-large{
+    background-color: #1f396b;
+border-radius: 45px 0px 0px 0px;
+}
+
+.arrow_left{
+    width: 100%;
+    background-color: #5656ff;
+    opacity: 0.6;
+    
+}
+.arrow-text{
+    padding-left: 20px;
+    margin-top: 10px;
+    align-items: center;
+    color: white;
+}
+
+.arrow-icon{
+    color: white;
+    padding: 25px;
+    font-size: 43px;
+    padding-left: 35px;
+    font-weight: 0;
+}
+.margi{
+    margin-top: 30px !important;
+}
+.arrow-img{
+    height: 100px;
+    width: 100px;
+    
+}
+.arrow-head h2{
+    font-weight: 700;
+
+}
+.arrow-head h3{
+    font-size: 27px !important;
+
+}
+.percent{
+    color: #1f396b;
+}
+.orang{
+    color: chocolate;
+}
+.text-span{
+    margin-top: 30px !important;
+}
+.blue-span{
+    color: #1f396b;
+    font-weight: bold;
+}
+.orange-span{
+    color: chocolate;
+    font-weight: bold;
+}
+.text-span h2{
+    font-size: 30px !important;
+}
+.showed{
+    font-size: 37px !important;
+    font-weight: bold;
+}
+.slowed{
+    font-size: 29px;
+    font-weight: 400;
+}
+.border-blue{
+    align-items: center;
+    border: 3px solid #1f396b;
+    border-radius: 18px;
+    padding-left:  50px  !important;
+    padding-top: 20px;
+    padding-bottom: 10px !important;
+    background-color: #cbdce6;
+}
+.headertop{
+    background-color:#1F396B ;
+    border-radius: 0px 230px 0px 0px;
+}
+.footer-last{
+    font-size: 15px !important;
+    color: white;
+}
+.back-blue{
+    background-color:#1f396b ;
+    border-radius: 0px 230px 0px 0px;
+}
+.backk-blue{
+    background-color:#1f396b ;
+}
+.footer-border{
+    color: white;
+    border: 2px solid white;
+    padding: 10px !important;
+}
+ 
+@media (max-width: 450px) {
+    .img-footer {
+        border: 0px;
+       position: relative;
+       top: -25px !important;
+       left: 70px !important;
+    
+    }
+    .back-blue{
+        border-radius: 0%;
+    }
+    .arrow_right-large{
+        height: 170px !important;
+        background-color: #1f396b;
+    border-radius: 45px 0px 0px 0px;
+    }
+    .clinical{
+        padding-top: 70px;
+    }
+    .itp-padd {
+        padding-top: 50px;
+    }
+  
+   
+}
+
+.margi div{
+ justify-content: space-around !important;
+}
+
+/* chart  */
+
+
+
+.paddi{
+    padding-left: 50px !important;
+    padding-top: 20px !important;
+}
+.img-footer{
+    width: 30px;
+    height: 30px;
+    
+}
+
+.arrow-ul{
+    font-size: 29px !important;
+    font-weight: 500;
+}
+.forth-sec{
+    font-size: 27px !important;
+    font-weight: 500;
+}
+
+.bor-round{
+    border: 2px solid #1f396b;
+    border-radius: 20px;
+    /* margin: 10px; */
+    /* height: 600px; */
+}
+
+.first{
+    background-color: #1f396b;
+    color: #fff;
+    border-radius: 20px 20px 0px 0px;
+    /* height: 100px; */
+    padding-top: 10px !important;
+    
+}
+.secound{
+    background-color: #cbdce6;
+    /* height: 110px; */
+    padding-top: 10px !important;
+    
+}
+.third{
+    background-color: #e2e8eb;
+    padding-top: 10px !important;
+    /* height: 110px; */
+}
+.forth{
+    background-color:#cbdce6 ;
+    /* height: 110px; */
+    padding-top: 10px !important;
+    border-radius: 0px 0px 20px 20px;
+}
+@media (max-width: 710px){
+.arrow-head h2 {
+    font-size: 25px;
+}
+.arrow-head h3{
+    font-size: 20px !important;
+}
+.percent h2{
+    font-size: 23px;
+}
+.percent h3{
+    font-size: 20px;
+}
+.orang h2{
+    font-size: 25px;
+}
+.orang h3{
+    font-size: 20px;
+}
+}
+
+
+
+.chart__contn {
+    border: 3px solid rgb(0, 187, 255);
+    border-radius: 15px;
+    overflow: hidden;
+}
